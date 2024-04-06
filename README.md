@@ -53,7 +53,7 @@ Navigate to the directory containing the JAR file (SimpleChatServer.jar).
 Run the server with the following command, specifying the desired port number (default is 9060)
 
 Example:
-java -jar SimpleChatServer.jar 9060
+java -jar SimpleChatServer.jar 10010
 
 
 3.
