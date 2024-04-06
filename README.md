@@ -53,8 +53,14 @@ Navigate to the directory containing the JAR file (SimpleChatServer.jar).
 Run the server with the following command, specifying the desired port number (default is 9060)
 
 Example:
-java -jar SimpleChatServer.jar 9090
+java -jar SimpleChatServer.jar 9060
 
 
 3.
 Clients can connect to the server using Netcat, Telnet or other similar application
+
+Example with Telnet: telnet localhost 9060
+
+Example with Netcat: nc localhost 9060
+
+Substitute 'localhost' with the IP address of the machine where the server is running
