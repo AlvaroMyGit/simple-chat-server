@@ -9,6 +9,7 @@ Supports multiple simultaneous client connections
 Basic chat functionality (sending and receiving messages)
 
 Available commands:
+
         /commands - Show all available commands
         
         /users - Show online users
