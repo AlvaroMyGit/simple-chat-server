@@ -8,6 +8,8 @@ Supports multiple simultaneous client connections
 
 Basic chat functionality (sending and receiving messages)
 
+Customizable port number, if none is set the default port number is 9060
+
 Available commands:
 
         /commands - Show all available commands
@@ -22,7 +24,6 @@ Available commands:
         
         /unblock <username> - Unblock messages from a specific user
         
-Customizable port number, if none is set the default port number is 9060
 
 
 Getting Started
