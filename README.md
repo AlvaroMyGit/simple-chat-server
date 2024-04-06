@@ -4,6 +4,7 @@ The Simple Chat Server is a Java-based server application that allows multiple c
 
 
 Features
+
 Supports multiple simultaneous client connections
 
 Basic chat functionality (sending and receiving messages)
