@@ -1,5 +1,4 @@
 # simple-chat-server
-Simple Chat Server
 
 The Simple Chat Server is a Java-based server application that allows multiple clients to connect and communicate with each other in a chat room environment.
 
