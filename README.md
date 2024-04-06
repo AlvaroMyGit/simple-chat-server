@@ -56,5 +56,5 @@ Example:
 java -jar SimpleChatServer.jar 9090
 
 
-4.
+3.
 Clients can connect to the server using Netcat, Telnet or other similar application
