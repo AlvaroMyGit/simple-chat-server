@@ -13,18 +13,19 @@ Customizable port number, if none is set the default port number is 9060
 
 Available commands:
 
-        /commands - Show all available commands
+```
+/commands - Show all available commands
         
-        /users - Show online users
+/users - Show online users
+ 
+/exit - Disconnect from the server
         
-        /exit - Disconnect from the server
+/whisper <username> - Send a private message to a specific user
         
-        /whisper <username> - Send a private message to a specific user
+/block <username> - Block messages from a specific user
         
-        /block <username> - Block messages from a specific user
-        
-        /unblock <username> - Unblock messages from a specific user
-        
+/unblock <username> - Unblock messages from a specific user
+```        
 
 
 Getting Started
