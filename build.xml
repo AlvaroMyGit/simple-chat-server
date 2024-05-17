@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<project name="SniperElite" default="jarfile">
+<project name="SimpleChatServer" default="jarfile">
 
     <!-- Initialize build properties  -->
     <target name="init" description="Initializes properties">
