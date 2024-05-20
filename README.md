@@ -3,7 +3,7 @@
 The Simple Chat Server is a Java-based server application that allows multiple clients to connect and communicate with each other in a chat room environment.
 
 
-Features
+<h2>Features</h2>
 
 Supports multiple simultaneous client connections
 
@@ -28,13 +28,15 @@ Available commands:
 ```        
 
 
-Getting Started
+<h2>Getting Started</h2>
 
 Prerequisites
 
-Java Development Kit (JDK) installed on your system
+<a href="https://www.oracle.com/java/technologies/downloads"> Java Development Kit (JDK) </a> installed on your system
 
-Installation
+<a href="https://ant.apache.org"> Apache Ant </a> installed on your system
+
+<h3>Installation</h3>
 
 1. Clone this repository to your local machine:
 ```
@@ -46,7 +48,7 @@ Navigate to the project root directory which has the build.xml file
 ant compile
 ```
 
-Usage
+<h3>Usage</h3>
 
 1. Navigate to the directory containing the JAR file (SimpleChatServer.jar).
 
